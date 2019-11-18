@@ -1,0 +1,12 @@
+.vs
+*/bin
+*/obj
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+/[Pp]ackages/
+/[Pp]rojectSettings/
