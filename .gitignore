@@ -11,9 +11,14 @@
 /Zork_Unity/bin/
 /Zork_Unity/obj/
 /Zork_Unity/Temp/
-/Zork_Unity/*.vs
+/Zork_Unity/.vs/
 /Zork_Unity/*csproj
 /Zork_Unity/*.sln
+/ZorkUnity/.vs/
+/Zork_Unity/Logs/
+/Zork_Unity/*csproj
+
+
 
 
 # User-specific files
