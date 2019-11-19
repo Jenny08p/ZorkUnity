@@ -5,16 +5,16 @@
 /[Bb]uild/
 /[Bb]uilds/
 
-/Zork_Unity/bin/
+
+*/bin/
 /Zork_Unity/Library
 /Zork_Unity/Build/
 /Zork_Unity/bin/
-/Zork_Unity/obj/
+*/obj/
 /Zork_Unity/Temp/
 /Zork_Unity/.vs/
 /Zork_Unity/*csproj
 /Zork_Unity/*.sln
-/ZorkUnity/.vs/
 /Zork_Unity/Logs/
 /Zork_Unity/*csproj
 
